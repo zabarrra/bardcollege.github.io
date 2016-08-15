@@ -2,7 +2,7 @@ body {
     background-color: rgb(17, 7, 29);
     color: linen;
     font-size: 150%;
-    line-height: 2;
+    line-height: 5;
 }
 
 h1{
@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(2, 3, 1);
+    color: rgb(234, 193, 18);
     text-decoration: none;
 }
 
@@ -50,7 +50,7 @@ img{
     font-size: 110%;
     background:gray;
     padding: 4px;
-    border:1px pink;
+    border:1px black;
 }
 
 .button {
@@ -58,7 +58,7 @@ img{
     font-size: 50%;
     color:gray;
     padding: 4px;
-    border:2px pink;
+    border:2px black;
 }
 
 .redacted{
