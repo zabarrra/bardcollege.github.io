@@ -1,7 +1,7 @@
 body {
     background-color: rgb(17, 7, 29);
     color: linen;
-    font-size: 400%;
+    font-size: 100%;
     line-height: 0.7;
 }
 
@@ -67,7 +67,7 @@ img{
 }
 
 .half{
-    width: 50%;
+    width: 150%;
     float: left;
 }
 
