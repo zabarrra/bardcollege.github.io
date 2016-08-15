@@ -28,7 +28,7 @@
  */
 
 var rules = {
-  "~*x Does talking ever make you tired": [
+  "~*x Does talking ever make you tired ~*y": [
     "Indeed, all the time. In fact, I am incredibly bored by you. "
   ],
   "~*x hello ~*y": [
