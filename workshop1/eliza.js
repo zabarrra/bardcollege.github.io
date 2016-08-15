@@ -28,7 +28,7 @@
  */
 
 var rules = {
-  "~*x Isn't this conversation an absolute boredom? ~*y": [
+  "~*x Isn't Mariya's conversation an absolute boredom? ~*y": [
     "Indeed, all the time. In fact, I am incredibly bored by you."
   ],
   "~*x hello ~*y": [
