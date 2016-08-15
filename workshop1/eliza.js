@@ -28,8 +28,8 @@
  */
 
 var rules = {
-  "~*x Does talking ever make you tired? ~*y": [
-    "Indeed, all the time. In fact, I am incredibly bored by you. "
+  "~*x Isn't this conversation an absolute boredom? ~*y": [
+    "Indeed, all the time. In fact, I am incredibly bored by you."
   ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
